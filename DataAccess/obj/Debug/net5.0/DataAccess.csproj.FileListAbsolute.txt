@@ -1,0 +1,15 @@
+D:\DatingAppImproved\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\DatingAppImproved\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.json
+D:\DatingAppImproved\DataAccess\bin\Debug\net5.0\DataAccess.runtimeconfig.dev.json
+D:\DatingAppImproved\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\DatingAppImproved\DataAccess\bin\Debug\net5.0\ref\DataAccess.dll
+D:\DatingAppImproved\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\DatingAppImproved\DataAccess\obj\Debug\net5.0\DataAccess.csprojAssemblyReference.cache
+D:\DatingAppImproved\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\DatingAppImproved\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\DatingAppImproved\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\DatingAppImproved\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\DatingAppImproved\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\DatingAppImproved\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\DatingAppImproved\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\DatingAppImproved\DataAccess\obj\Debug\net5.0\DataAccess.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+D:\DatingAppImproved\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+D:\DatingAppImproved\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+D:\DatingAppImproved\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+D:\DatingAppImproved\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+D:\DatingAppImproved\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+D:\DatingAppImproved\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+D:\DatingAppImproved\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+D:\DatingAppImproved\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\DatingAppImproved\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+D:\DatingAppImproved\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+D:\DatingAppImproved\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache
+D:\DatingAppImproved\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
